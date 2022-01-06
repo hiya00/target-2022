@@ -1,0 +1,22 @@
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;
+}
+.text-colour{
+    color: orange;
+}
+.first-part{
+    width: 50%;
+    padding-left: 10%;
+}
+.first-part img{
+    width: 70%;
+}
+.click-button{
+    text-decoration: none;
+    background-color: salmon;
+    padding: 10px;
+    border-radius: 5px;
+}
