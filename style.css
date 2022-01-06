@@ -1,3 +1,10 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+
 h1{
     font-size: 50px;
 }
@@ -8,11 +15,18 @@ h1{
     color: orange;
 }
 .first-part{
+    margin-top: 10%;
     width: 50%;
     padding-left: 10%;
 }
 .first-part img{
     width: 70%;
+}
+.border-part{
+    border-left: 4px solid;
+    color: tomato;
+    border-image-slice: 1;
+    border-radius: 2px;
 }
 .click-button{
     text-decoration: none;
@@ -56,4 +70,26 @@ h1{
 }
 .fourth-part{
     margin-top: 5%;
+}
+footer{
+    
+    background-color:black;
+    
+}
+.footer-colour{
+    color: white;
+    text-align: center;
+}
+.last-colour{
+    color:salmon;
+}
+.form-colour{
+    color: tomato;
+}
+.comment-part{
+    text-align: center;
+}
+.fifth-part{
+    margin-left: 40%;
+
 }
