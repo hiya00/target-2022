@@ -1,7 +1,7 @@
 h1{
     font-size: 50px;
 }
-section{
+.elinment-part{
     display: flex;
 }
 .text-colour{
@@ -19,4 +19,35 @@ section{
     background-color: salmon;
     padding: 10px;
     border-radius: 5px;
+}
+.second-heading{
+    text-align: center;
+}
+.heading-colour{
+    color: orange;
+}
+.dream-part{
+    width:35%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    
+}
+.dream-part img{
+    padding-bottom: 5%;
+    padding-left: 28%;
+    width:40%;
+}
+.mission-colour{
+    background-color: skyblue;
+    border-radius: 10px;
+}
+.vission-colour{
+    background-color: turquoise;
+    border-radius: 10px;
+}
+.goal-colour{
+    background-color: wheat;
+    border-radius: 10px;
+
 }
